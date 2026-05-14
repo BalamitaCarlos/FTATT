@@ -1,0 +1,58 @@
+[
+  {
+    "id": "610fc7f39224d74590325e58",
+    "name": "Home 4",
+    "longitude": 31.4743612,
+    "latitude": 29.9890313,
+    "radius": 500,
+    "status": 1,
+    "employee": {
+      "id": "5e8631622a155d17c49c8ab1",
+      "fullName": "Kirollos Wagih",
+      "title": "Technical Lead",
+      "organizationEmail": "kirollos.wagih@flairstech.com"
+    }
+  },
+  {
+    "id": "5fad2ab4c66f86235058698d",
+    "name": "Home Tamr",
+    "longitude": 31.335908,
+    "latitude": 30.0519851,
+    "radius": 500,
+    "status": 1,
+    "employee": {
+      "id": "5e8631622a155d17c49c8ab1",
+      "fullName": "Kirollos Wagih",
+      "title": "Technical Lead",
+      "organizationEmail": "kirollos.wagih@flairstech.com"
+    }
+  },
+  {
+    "id": "5f738e22757890025882e9c1",
+    "name": "Home 2",
+    "longitude": 31.3254273,
+    "latitude": 30.09907,
+    "radius": 500,
+    "status": 1,
+    "employee": {
+      "id": "5e8631622a155d17c49c8ab1",
+      "fullName": "Kirollos Wagih",
+      "title": "Technical Lead",
+      "organizationEmail": "kirollos.wagih@flairstech.com"
+    }
+  },
+  {
+    "id": "5f6bdb85708e041470342b4d",
+    "name": "Home 3",
+    "longitude": 31.3479964,
+    "latitude": 30.0464394,
+    "radius": 500,
+    "status": 1,
+    "employee": {
+      "id": "5e8631622a155d17c49c8ab1",
+      "fullName": "Kirollos Wagih",
+      "title": "Technical Lead",
+      "organizationEmail": "kirollos.wagih@flairstech.com"
+    }
+  }
+]

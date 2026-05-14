@@ -1,0 +1,45 @@
+{
+  "place_id": "5f738e22757890025882e9c1",
+  "place_name": "Home 2",
+  "latitude": 30.09907,
+  "longitude": 31.3254273,
+  "auto_check_in_time": "08:00",
+  "auto_check_out_time": "17:00",
+  "enable_auto_check_in": false,
+  "enable_auto_check_out": false,
+  "notifications": true,
+  "all_locations": [
+    {
+      "id": "5f738e22757890025882e9c1",
+      "name": "Home 2",
+      "latitude": 30.09907,
+      "longitude": 31.3254273,
+      "status": 1,
+      "address": ""
+    },
+    {
+      "id": "5f6bdb85708e041470342b4d",
+      "name": "Home 3",
+      "latitude": 30.0464394,
+      "longitude": 31.3479964,
+      "status": 1,
+      "address": ""
+    },
+    {
+      "id": "610fc7f39224d74590325e58",
+      "name": "Home 4",
+      "latitude": 29.9890313,
+      "longitude": 31.4743612,
+      "status": 1,
+      "address": ""
+    },
+    {
+      "id": "5fad2ab4c66f86235058698d",
+      "name": "Home Tamr",
+      "latitude": 30.0519851,
+      "longitude": 31.335908,
+      "status": 1,
+      "address": ""
+    }
+  ]
+}
